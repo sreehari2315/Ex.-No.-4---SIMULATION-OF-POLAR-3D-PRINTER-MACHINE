@@ -27,14 +27,13 @@
 
 ## OUTPUT:
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/9e41de91-6dcc-4352-ab44-443028d3ac1a)
+[11](https://github.com/sreehari2315/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/139331590/e8283ea4-7396-47a5-bc4c-024d936f830b)
+!![12](https://github.com/sreehari2315/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/139331590/bfb4492c-be75-41c7-acc6-1d6d82de42df)
+![13](https://github.com/sreehari2315/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/139331590/a7227e98-6cb7-4064-b39d-4f692788b5c1)
+![14](https://github.com/sreehari2315/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/139331590/10e0e3b2-6f3a-409c-9b10-6b689df42447)
+### Name:Sree Hari K
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
-
-## Output:
-
-### Name:
-### Register Number:
+### Register Number:23000908
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
